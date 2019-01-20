@@ -1,4 +1,4 @@
-# React-echars-pre
+# React-echars-pie
 
 #### 介绍
 React+echars写的图表组件
